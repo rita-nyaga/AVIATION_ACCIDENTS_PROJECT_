@@ -14,7 +14,7 @@
 ## RESULTS
 
 ### The results of the findings are summarized in visualizations below
-## Taableau link :<https://public.tableau.com/app/profile/rita.nyaga/viz/AviationaccidentsTableaubyRN/Dashboard1?publish=yes>
+## [View my Tableau link here](https://public.tableau.com/app/profile/rita.nyaga/viz/AviationaccidentsTableaubyRN/Dashboard1?publish=yes)
 ![Engine type]('Images/engine_type.png')
 ![Weather conditions]('Images/weather_conditions.png')
 ![location]('Images/locaton.png')
